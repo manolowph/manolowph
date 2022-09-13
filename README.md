@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ivaylo Manolov
+- 👋 Hi, I’m Ivaylo Manolov, I am SoftUni Student
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me manolowph@gmail.com
